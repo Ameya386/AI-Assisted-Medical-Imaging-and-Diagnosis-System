@@ -1,5 +1,7 @@
 # AIML-02 - AI-Assisted Medical Imaging and Diagnosis System
 
+**GitHub:** https://github.com/Ameya386/AI-Assisted-Medical-Imaging-and-Diagnosis-System
+
 > **FOR EDUCATION ONLY - NOT FOR CLINICAL USE.** This is a learning project, not a medical device.
 
 A small platform where chest X-rays arrive as DICOM, a deep-learning model analyses them, an explanation heat-map
